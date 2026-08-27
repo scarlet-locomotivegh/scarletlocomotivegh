@@ -1,0 +1,8 @@
+/home/andre/CPE_486/hw00scarletlocomotivegh/scarlet-locomotive/target/release/build/target-lexicon-e326f7a43cec92c0/build_script_build-e326f7a43cec92c0.d: /home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/build.rs /home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/data_model.rs /home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/triple.rs /home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/targets.rs
+
+/home/andre/CPE_486/hw00scarletlocomotivegh/scarlet-locomotive/target/release/build/target-lexicon-e326f7a43cec92c0/build_script_build-e326f7a43cec92c0: /home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/build.rs /home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/data_model.rs /home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/triple.rs /home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/targets.rs
+
+/home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/build.rs:
+/home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/data_model.rs:
+/home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/triple.rs:
+/home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/targets.rs:
