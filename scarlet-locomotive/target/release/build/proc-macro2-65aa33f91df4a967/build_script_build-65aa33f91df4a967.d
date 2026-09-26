@@ -1,5 +1,0 @@
-/home/andre/CPE_486/hw00scarletlocomotivegh/scarlet-locomotive/target/release/build/proc-macro2-65aa33f91df4a967/build_script_build-65aa33f91df4a967.d: /home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.107/build.rs
-
-/home/andre/CPE_486/hw00scarletlocomotivegh/scarlet-locomotive/target/release/build/proc-macro2-65aa33f91df4a967/build_script_build-65aa33f91df4a967: /home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.107/build.rs
-
-/home/andre/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.107/build.rs:
